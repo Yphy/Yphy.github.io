@@ -3,7 +3,7 @@ title: yphy's blog
 tagline:
 description: 'blog for studying'
 url: http://yphy.github.io
-logo: '/public/logo.png'
+logo: '/public/logo2.png'
 encoding: utf-8
 
 # Site configurations
@@ -25,7 +25,7 @@ version: 1.0.0
 author:
   name: yphy
   description:
-  gravatar: 0a638fc7996869b1b67fb90ccf77dcfe # md5 hash of your email address
+  gravatar: d3a4d417897facaa3d44ccda8a0c1160 # md5 hash of your email address
   contact:
     linkedin:
     github:    https://github.com/yphy
